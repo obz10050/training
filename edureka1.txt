@@ -1,2 +1,3 @@
 this is my second trying
 adding a new line 
+learning about github.com
